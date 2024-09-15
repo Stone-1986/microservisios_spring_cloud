@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18610726-60ed-49ee-93fc-90facdcfd9c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/micro-producto.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/taller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-producto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/micro-producto/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-producto/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/micro-producto/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-carrito/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ms-carrito/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-carrito/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ms-carrito/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/src/main/java/com/netec/ms_config/MsConfigApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-config/ms-config/src/test/java/com/netec/ms_config/MsConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ms-config/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +73,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -99,7 +81,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.MsCarritoApplication">
+  <component name="RunManager" selected="Spring Boot.MicroProductoApplication">
     <configuration name="MsEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.netec.ms_eureka.MsEurekaApplication" />
       <extension name="coverage">
@@ -173,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726243380377</updated>
-      <workItem from="1726243381384" duration="6554000" />
+      <workItem from="1726243381384" duration="9110000" />
     </task>
     <servers />
   </component>
